@@ -1,8 +1,8 @@
 # Journal: Game Design Assesment
 Peter Rosenthal
 ATLS 4140
-## Game Reviewed:
-Super Star Wars published by Nintendo and LucasArts for the SNES
+## Game Reviewed: Super Star Wars
+Published by Nintendo and LucasArts for the SNES
 ### 1. Provide a detailed overview of the object of the game.
 Super Star Wars is a shooting "run and gun" style platformer where you can run, jump, crouch, and shoot in 8 directions. You encounter a large number of enemies right from the beginning, but you only have to kill the boss at the end of each level in order to advance to the next level. You're given four lives to start the game, and once those run out, you can restart the game from the very beginning, but this can only be done 3 times before the game cartridge itself has to be restarted. The object of the game is just to kill the boss at the end of each level to advance the game
 ### 2. List 3 or more things that you like about the game. Why?
