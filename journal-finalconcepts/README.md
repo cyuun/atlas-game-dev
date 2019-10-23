@@ -1,4 +1,4 @@
-#Journal: 5 Concepts for Final Game
+# Journal: 5 Concepts for Final Game
 Peter Rosenthal  
 ATLS 4140
 
